@@ -43,7 +43,7 @@ This portfolio project showcases advanced SQL analytics, database engineering, a
 
 ---
 
-## Repository Structure 📁
+## Repository Structure
 
 ```
 lego-sql-analysis/
@@ -65,7 +65,7 @@ lego-sql-analysis/
 
 ---
 
-## Analysis Notebooks 📊
+## Analysis Notebooks
 
 ### 🔷 [Notebook 00: Legacy LEGO SQL Analysis](notebooks/01_lego-sql-v1.0-fixed.ipynb)
 **Competition Entry | Exploratory Data Analysis**
@@ -287,7 +287,7 @@ Delivers executive-level business intelligence through hierarchical analysis, ma
 
 ---
 
-## Technical Skills Demonstrated 🛠️
+## Technical Skills Demonstrated
 
 ### **Database Engineering**
 ✅ API integration with error handling & rate limiting  
@@ -352,7 +352,7 @@ Delivers executive-level business intelligence through hierarchical analysis, ma
 
 ---
 
-## Business Value 💼
+## Business Value
 
 ### Strategic Insights Delivered
 
@@ -383,7 +383,7 @@ Delivers executive-level business intelligence through hierarchical analysis, ma
 
 ---
 
-## Key Findings 🔍
+## Key Findings
 
 ### **Temporal Trends (2015-2024)**
 - ✅ Average set complexity grew **8.7% annually**
@@ -417,7 +417,7 @@ Delivers executive-level business intelligence through hierarchical analysis, ma
 
 ---
 
-## Setup & Installation 🚀
+## Setup & Installation
 
 ### Prerequisites
 - Python 3.8+
@@ -473,7 +473,7 @@ Delivers executive-level business intelligence through hierarchical analysis, ma
 
 ---
 
-## Data Sources 📊
+## Data Sources
 
 ### Primary Data Source: Rebrickable API
 - **API Documentation:** [rebrickable.com/api/v3/docs](https://rebrickable.com/api/v3/docs/)
@@ -500,7 +500,7 @@ Delivers executive-level business intelligence through hierarchical analysis, ma
 
 ---
 
-## Technologies Used 🔧
+## Technologies Used
 
 ### **Core Technologies**
 - **Python 3.8+** - Data processing and analysis
@@ -531,7 +531,7 @@ numpy>=1.21.0           # Numerical computing
 
 ---
 
-## Future Enhancements 📈
+## Future Enhancements
 
 ### **Planned Features**
 
@@ -568,7 +568,7 @@ numpy>=1.21.0           # Numerical computing
 
 ---
 
-## 👤 Author
+## Author
 
 **Rodion Barskov**  
 *Aspiring Data Analyst*
@@ -585,7 +585,7 @@ numpy>=1.21.0           # Numerical computing
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
