@@ -591,24 +591,6 @@ Transitioning from Paralegal to Data Analytics with focus on insurance industry 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-## 🙏 Acknowledgments
-
-- **Rebrickable.com** - For providing comprehensive LEGO database and API
-- **DataCamp** - Initial project inspiration and learning platform
-- **LEGO Community** - For maintaining accurate, detailed product information
-- **Anthropic Claude** - Development assistance and technical guidance
-
----
-
-## 📞 Questions or Feedback?
-
-If you have questions about this analysis or would like to discuss data analytics opportunities:
-
-- **Open an Issue:** [GitHub Issues](https://github.com/yourusername/lego-sql-analysis/issues)
-- **Email:** rodion.barskov@email.com
-- **LinkedIn Message:** [Rodion Barskov](https://linkedin.com/in/rodion-barskov)
 
 ---
 
@@ -617,5 +599,3 @@ If you have questions about this analysis or would like to discuss data analytic
 ---
 
 *Last Updated: January 2025*  
-*Project Status: Complete & Portfolio-Ready*  
-*Version: 1.0*
