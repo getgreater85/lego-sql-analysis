@@ -1,4 +1,4 @@
-# 🧱 LEGO Database Analysis: Advanced SQL & Business Intelligence
+# LEGO Database Analysis: Advanced SQL & Business Intelligence
 
 **Comprehensive data analysis portfolio demonstrating advanced SQL techniques, API integration, and business intelligence on 10,000+ LEGO sets (2015-2024)**
 
@@ -33,7 +33,7 @@ This portfolio project showcases advanced SQL analytics, database engineering, a
 - **Demonstrate SQL proficiency** across 15+ advanced techniques
 - **Build complete ETL pipeline** using Rebrickable API
 - **Deliver actionable business insights** through data-driven analysis
-- **Showcase portfolio skills** relevant to Customer Experience Data Analyst roles
+- **Showcase portfolio skills** relevant to Data Analyst roles
 
 ### Dataset Summary
 - **10,000 LEGO sets** (2015-2024)
@@ -49,19 +49,14 @@ This portfolio project showcases advanced SQL analytics, database engineering, a
 lego-sql-analysis/
 │
 ├── notebooks/
-│   ├── 00_lego-sql-v1.0-fixed.ipynb          # Initial exploratory analysis (DataCamp)
-│   ├── 01_Database_Setup.ipynb                # API integration & database creation
-│   ├── 02_Time_Series_Analysis.ipynb          # Trend analysis with window functions
+│   ├── 01_lego-sql-v1.0-fixed.ipynb           # Initial exploratory analysis (DataCamp 2023 Competition)
+│   ├── 02_Database_Setup.ipynb                # API integration & database creation. Trend analysis with window functions
 │   ├── 03_Complexity_Analysis.ipynb           # Multi-metric scoring & rankings
 │   └── 04_Business_Intelligence.ipynb         # Strategic insights & recommendations
 │
 ├── docs/
-│   ├── lego_erd.png                           # Entity-Relationship Diagram
-│   ├── LEGO_Advanced_SQL_Roadmap.md           # Project roadmap & methodology
-│   └── Colab_Setup_Guide.md                   # Google Colab setup instructions
+│   └── lego_erd.png                           # Entity-Relationship Diagram
 │
-├── data/
-│   └── README.txt                             # Data source information & download links
 │
 ├── requirements.txt                            # Python dependencies
 ├── .gitignore                                 # Git ignore rules
@@ -72,7 +67,7 @@ lego-sql-analysis/
 
 ## 📊 Analysis Notebooks
 
-### 🔷 [Notebook 00: Initial LEGO SQL Analysis](notebooks/00_lego-sql-v1.0-fixed.ipynb)
+### 🔷 [Notebook 00: Initial LEGO SQL Analysis](notebooks/01_lego-sql-v1.0-fixed.ipynb)
 **Competition Entry | Exploratory Data Analysis**
 
 Initial analysis performed as DataCamp competition demonstrating foundational SQL skills on Rebrickable LEGO database.
@@ -95,11 +90,11 @@ Initial analysis performed as DataCamp competition demonstrating foundational SQ
 
 **Dataset:** 11,673 sets from Rebrickable database (PostgreSQL environment)
 
-**[View Notebook →](notebooks/00_lego-sql-v1.0-fixed.ipynb)**
+**[View Notebook →](notebooks/01_lego-sql-v1.0-fixed.ipynb)**
 
 ---
 
-### 🔷 [Notebook 01: Database Setup & API Integration](notebooks/01_Database_Setup.ipynb)
+### 🔷 [Notebook 01: Database Setup & API Integration](notebooks/02_Database_Setup.ipynb)
 **Foundation | ETL Pipeline | Data Engineering**
 
 Builds SQLite database from live Rebrickable API data, demonstrating modern data engineering workflows.
@@ -130,13 +125,6 @@ tables/
 - Error handling and retry logic
 - Data cleaning and transformation
 - Strategic sampling (top 1,000 sets per year)
-
-**[View Notebook →](notebooks/01_Database_Setup.ipynb)**
-
----
-
-### 🔷 [Notebook 02: Time Series Analysis](notebooks/02_Time_Series_Analysis.ipynb)
-**Trend Analysis | Window Functions | YoY Calculations**
 
 Advanced time series analysis using SQL window functions to identify trends, growth patterns, and temporal dynamics.
 
@@ -180,7 +168,7 @@ Advanced time series analysis using SQL window functions to identify trends, gro
 - Cumulative growth trajectories
 - Year ranking distributions
 
-**[View Notebook →](notebooks/02_Time_Series_Analysis.ipynb)**
+**[View Notebook →](notebooks/02_Database_Setup.ipynb)**
 
 ---
 
@@ -455,8 +443,7 @@ Delivers executive-level business intelligence through hierarchical analysis, ma
    - In notebook, replace: `API_KEY = "YOUR_API_KEY_HERE"`
 
 4. **Run notebooks in order:**
-   - `01_Database_Setup.ipynb` (creates database)
-   - `02_Time_Series_Analysis.ipynb`
+   - `02_Database_Setup.ipynb` (creates database)
    - `03_Complexity_Analysis.ipynb`
    - `04_Business_Intelligence.ipynb`
 
@@ -483,15 +470,6 @@ Delivers executive-level business intelligence through hierarchical analysis, ma
    ```bash
    jupyter notebook
    ```
-
-5. **Open and run notebooks sequentially**
-
-### Execution Time
-- **Notebook 01 (Database Setup):** 20-30 minutes (API calls with rate limiting)
-- **Notebook 02 (Time Series):** 5-10 minutes
-- **Notebook 03 (Complexity):** 5-10 minutes
-- **Notebook 04 (Business Intelligence):** 5-10 minutes
-- **Total:** ~45-60 minutes for complete analysis
 
 ---
 
@@ -593,15 +571,13 @@ numpy>=1.21.0           # Numerical computing
 ## 👤 Author
 
 **Rodion Barskov**  
-*Aspiring Customer Experience Data Analyst*
+*Aspiring Data Analyst*
 
 Transitioning from Paralegal to Data Analytics with focus on insurance industry customer experience optimization.
 
 ### **Connect with Me**
-- **LinkedIn:** [linkedin.com/in/rodion-barskov](https://linkedin.com/in/rodion-barskov)
-- **GitHub:** [github.com/rodion-barskov](https://github.com/rodion-barskov)
-- **Email:** rodion.barskov@email.com
-- **Portfolio:** [rodionbarskov.com](https://rodionbarskov.com)
+- **LinkedIn:** [linkedin.com/in/rodion-barskov](https://www.linkedin.com/in/rodion-b-258b28248/)
+- **GitHub:** [github.com/rodion-barskov](https://github.com/getgreater85)
 
 ### **Other Projects**
 - **Customer Lifetime Value Optimization** - Health insurance analytics
