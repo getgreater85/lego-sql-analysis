@@ -67,10 +67,10 @@ lego-sql-analysis/
 
 ## 📊 Analysis Notebooks
 
-### 🔷 [Notebook 00: Initial LEGO SQL Analysis](notebooks/01_lego-sql-v1.0-fixed.ipynb)
+### 🔷 [Notebook 00: Legacy LEGO SQL Analysis](notebooks/01_lego-sql-v1.0-fixed.ipynb)
 **Competition Entry | Exploratory Data Analysis**
 
-Initial analysis performed as DataCamp competition demonstrating foundational SQL skills on Rebrickable LEGO database.
+Initial analysis performed as DataCamp 2023 competition demonstrating foundational SQL skills on Rebrickable LEGO database.
 
 **Key Queries:**
 - Average sets released per year
