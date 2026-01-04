@@ -25,7 +25,7 @@
 
 ---
 
-## 🎯 Project Overview
+# 🎯 Project Overview
 
 This portfolio project showcases advanced SQL analytics, database engineering, and business intelligence capabilities through comprehensive analysis of LEGO product data. The project demonstrates end-to-end data pipeline development from API integration to strategic business recommendations.
 
